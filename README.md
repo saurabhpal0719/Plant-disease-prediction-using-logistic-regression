@@ -1,0 +1,1 @@
+# Plant-disease-prediction-using-logistic-regression
